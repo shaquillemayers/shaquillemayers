@@ -9,7 +9,7 @@
 
 <h2 align="left">About Me 👨🏽‍💻</h2>
 
-I'm generalist who thrives in collaborative environments, engages with stakeholders and leverages frontend and backend technologies to solve complex problems. I'm passionate about continuous learning and proactively keep up with industry trends. I enjoy travelling, programming, reading, gaming and anime.
+I'm a generalist who thrives in collaborative environments, engages with stakeholders and leverages frontend and backend technologies to solve complex problems. I'm passionate about continuous learning and proactively keep up with industry trends. I have a lot of hobbies, but I really enjoy travelling, programming, gaming and watching anime.
 
 <div align="center">
   <img height="175" src="https://media1.tenor.com/m/MBjigeDsH_sAAAAC/trip-vacation-mode.gif" />
