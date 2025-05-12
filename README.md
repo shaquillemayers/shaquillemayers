@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me 👨🏽‍💻</h2>
 
 I'm generalist who thrives in collaborative environments, engages with stakeholders and leverages frontend and backend technologies to solve complex problems. Passionate about continuous learning and proactively keeps up with industry trends. I enjoy travelling, programming, reading, gaming and anime.
 
@@ -25,7 +25,7 @@ I'm generalist who thrives in collaborative environments, engages with stakehold
 
 ###
 
-<h2 align="left">Languages & Tools</h2>
+<h2 align="left">Languages & Tools 🛠️</h2>
 
 </br>
 
