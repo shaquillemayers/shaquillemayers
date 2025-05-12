@@ -1,18 +1,3 @@
-<!--
-**shaquillemayers/shaquillemayers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="left">Hey 👋</h1>
 
 ###
@@ -27,10 +12,10 @@ Here are some ideas to get you started:
 I'm generalist who thrives in collaborative environments, engages with stakeholders and leverages frontend and backend technologies to solve complex problems. Passionate about continuous learning and proactively keeps up with industry trends. I enjoy travelling, programming, reading, gaming and anime.
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/MBjigeDsH_sAAAAC/trip-vacation-mode.gif" />
-  <img height="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
-  <img height="200" src="https://media1.tenor.com/m/i1Hn_Rkco4IAAAAC/controller-grass.gif" />
-  <img height="200" src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAC/solo-leveling-solo-leveling-season-2.gif" />
+  <img height="175" src="https://media1.tenor.com/m/MBjigeDsH_sAAAAC/trip-vacation-mode.gif" />
+  <img height="175" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
+  <img height="175" src="https://media1.tenor.com/m/i1Hn_Rkco4IAAAAC/controller-grass.gif" />
+  <img height="175" src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAC/solo-leveling-solo-leveling-season-2.gif" />
 
 </div>
 
