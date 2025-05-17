@@ -12,10 +12,10 @@
 I'm a generalist who thrives in collaborative environments, engages with stakeholders and leverages frontend and backend technologies to solve complex problems. I'm passionate about continuous learning and proactively keep up with industry trends. I have a lot of hobbies, but I really enjoy travelling, programming, gaming and watching anime.
 
 <div align="center">
-  <img height="175" src="https://media1.tenor.com/m/MBjigeDsH_sAAAAC/trip-vacation-mode.gif" />
-  <img height="175" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
-  <img height="175" src="https://media1.tenor.com/m/i1Hn_Rkco4IAAAAC/controller-grass.gif" />
-  <img height="175" src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAC/solo-leveling-solo-leveling-season-2.gif" />
+  <img alt="A pink penguin sitting on a plane" height="175" src="assets/travel-penguin.gif" />
+  <img alt="A green frog typing" height="175" src="assets/soulja-boy-pepe.gif" />
+  <img alt="Timmy Turner gaming" height="175" src="assets/timmy-turner-gaming.gif" />
+  <img alt="Sung Jin-woo from Solo Levelling" height="175" src="assets/sung-jin-woo.gif" />
 
 </div>
 
