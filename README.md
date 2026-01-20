@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Shaq, a product-focused Full-Stack Software Engineer with 4 years of experience and an academic background in Mathematics. After discovering my passion for programming in 2020, I taught myself to code and have since proven my ability to design scalable solutions, optimise software architecture and build high-impact, user-centric features. 
+<p align="left">I'm Shaq, a product-focused Full-Stack Software Engineer with 5 years of experience and an academic background in Mathematics. After discovering my passion for programming in 2020, I taught myself to code and have since proven my ability to design scalable solutions, optimise software architecture and build high-impact, user-centric features. 
 </p>
 
 ###
